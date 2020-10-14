@@ -1,0 +1,12 @@
+.emphasis { 
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.img {
+  width: 50%;
+  height: auto;
+}
