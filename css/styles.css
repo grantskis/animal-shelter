@@ -1,12 +1,15 @@
-.emphasis { 
-}
-
 .column {
-  width: 300px;
+  max-width: 300px;
   float: left;
 }
 
-.img {
-  width: 50%;
+img {
+  width: 500%;
   height: auto;
 }
+
+.emphasis { 
+  font-weight: bold;
+}
+
+
